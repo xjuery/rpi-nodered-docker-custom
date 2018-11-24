@@ -1,1 +1,1 @@
-docker build -t rpi-nodered-docker-custom:1.0 .
+docker build -t rpi-nodered-docker-custom:1.2 .
